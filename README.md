@@ -27,7 +27,7 @@ I have developed and launched the following websites:
 - 🔗 [Ethiographic](https://www.ethiographic.com)
 - 🔗 [Eco Ethiopia](https://www.ecoethiopia.com)
 
-I also have an **employee work-tracking web app** on GitHub that I plan to update soon!
+I also have an **employee work-tracking web app** by the name **Jiko10** on GitHub check it out!
 
 ## 📬 Let's Connect!
 📧 Email: lakachew@gmail.com  
